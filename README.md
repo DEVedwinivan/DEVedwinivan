@@ -27,9 +27,9 @@ Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas práct
 
 ### 📊 Mis estadísticas en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVedwinivan&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVedwinivan&show_icons=true&theme=default" alt="Estadísticas de GitHub"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVedwinivan&theme=radical" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVedwinivan&theme=default" alt="Racha de contribuciones"/>
 </p>
 
 ---
