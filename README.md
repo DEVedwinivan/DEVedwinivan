@@ -34,3 +34,13 @@ Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas práct
 
 ---
 
+### 🌐 Contactame
+<p align="center">
+  <a href="https://www.linkedin.com/in/edwin-ivan-rodriguez-velazquez-66b2a3296" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:evir4004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Correo%20electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
