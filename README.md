@@ -1,3 +1,8 @@
+<style>
+  *{
+  backgroud-color: #233d4d;
+  }
+</style>
 <h1 align="center">👋 ¡Hola! Soy Edwin Rodriguez</h1>
 
 <p align="center">
