@@ -1,20 +1,20 @@
 
-<h1 align="center">👋 ¡Hola! Soy Edwin Rodriguez</h1>
+<h1 align="center">¡Hola! Soy Edwin Rodriguez</h1>
 
 <p align="center">
-  💻 <b>Desarrollador Web Junior</b> especializado en <b>PHP</b> y <b>Laravel</b> <br>
-  🚀 Apasionado por la tecnología, la innovación y el aprendizaje constante.
+  <b>Desarrollador Web Junior</b> especializado en <b>PHP</b> y <b>Laravel</b> <br>
+  Apasionado por la tecnología, la innovación y el aprendizaje constante.
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### Sobre mí
 Desarrollador web junior especializado en **PHP y Laravel**, con experiencia en la creación de **aplicaciones dinámicas, seguras y escalables**.  
 Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas prácticas**, contribuir a proyectos que mejoren la eficiencia y la experiencia del usuario, y **crear soluciones eficaces**.
 
 ---
 
-### ⚙️ Tecnologías que manejo
+### Tecnologías que manejo
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -29,7 +29,7 @@ Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas práct
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### Mis estadísticas en GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEVedwinivan&show_icons=true&theme=default" alt="Estadísticas de GitHub"/>
   <br>
@@ -40,7 +40,7 @@ Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas práct
 
 ---
 
-### 🌐 Contactame
+### Contactame
 <p align="center">
   <a href="https://www.linkedin.com/in/edwin-ivan-rodriguez-velazquez-66b2a3296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
