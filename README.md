@@ -35,7 +35,7 @@ Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas práct
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVedwinivan&theme=default" alt="Racha de contribuciones"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVedwinivan"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVedwinivan" alt="top lenguages de programación"/>
 </p>
 
 ---
