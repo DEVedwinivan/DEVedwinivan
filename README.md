@@ -10,7 +10,7 @@
 
 ### Sobre mí
 Desarrollador web junior especializado en **PHP y Laravel**, con experiencia en la creación de **aplicaciones dinámicas, seguras y escalables**.  
-Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas prácticas**, contribuir a proyectos que mejoren la eficiencia y la experiencia del usuario, y **crear soluciones eficaces**.
+Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas prácticas**, contribuir a proyectos que mejoren la eficiencia, desarrollar sistemas que me faciliten actividades, la experiencia del usuario, y **crear soluciones eficaces**.
 
 ---
 
@@ -21,10 +21,11 @@ Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas práct
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
 </p>
 
 ---
@@ -45,7 +46,7 @@ Me apasiona aprender constantemente nuevas tecnologías, aplicar **buenas práct
   <a href="https://www.linkedin.com/in/edwin-ivan-rodriguez-velazquez-66b2a3296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:evir4004@gmail.com" target="_blank">
+  <a href="mailto:edwin.rodriguez21.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Correo%20electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
